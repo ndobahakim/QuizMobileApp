@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595898688935",
+    "project_id": "mobileapp-ff5e1",
+    "storage_bucket": "mobileapp-ff5e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595898688935:android:56dbd21a5c6bc764de0282",
+        "android_client_info": {
+          "package_name": "com.example.calculatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDl6v9UhSJwC4XvyXSQb1xLJmXMvNBtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
